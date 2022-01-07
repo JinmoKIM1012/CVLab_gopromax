@@ -1,0 +1,18 @@
+atari-py==0.2.6
+autopep8==1.6.0
+cloudpickle==1.6.0
+-e git+https://github.com/openai/gym@3586d4a3b7605c49e0fd1413afb3624006b9302a#egg=gym
+numpy==1.21.1
+opencv-python==4.5.3.56
+Pillow==8.3.1
+pycodestyle==2.8.0
+pygame==2.0.1
+PyQt3D==5.15.5
+PyQt5==5.15.6
+PyQt5-sip==12.9.0
+PyQtChart==5.15.5
+PyQtDataVisualization==5.15.5
+PyQtNetworkAuth==5.15.5
+PyQtPurchasing==5.15.5
+six==1.16.0
+toml==0.10.2
